@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++/DV/main.c
+stdio.h
+-
+
+D:/C++/DV/node0.c
+stdio.h
+-
+
+D:/C++/DV/node1.c
+stdio.h
+-
+
+D:/C++/DV/node2.c
+stdio.h
+-
+
+D:/C++/DV/node3.c
+stdio.h
+-
+
