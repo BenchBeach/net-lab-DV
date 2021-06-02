@@ -6,23 +6,29 @@
 
 #IncludeRegexTransform: 
 
-D:/C++/DV/main.c
-stdio.h
--
+C:/C/net-lab-DV/node.h
 
-D:/C++/DV/node0.c
+C:/C/net-lab-DV/node0.c
 stdio.h
 -
+node.h
+C:/C/net-lab-DV/node.h
 
-D:/C++/DV/node1.c
+C:/C/net-lab-DV/node1.c
 stdio.h
 -
+node.h
+C:/C/net-lab-DV/node.h
 
-D:/C++/DV/node2.c
+C:/C/net-lab-DV/node2.c
 stdio.h
 -
+node.h
+C:/C/net-lab-DV/node.h
 
-D:/C++/DV/node3.c
+C:/C/net-lab-DV/node3.c
 stdio.h
 -
+node.h
+C:/C/net-lab-DV/node.h
 

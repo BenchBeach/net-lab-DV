@@ -155,10 +155,10 @@ void init()                         /* initialize the simulator */
 /****************************************************************************/
 float jimsrand() 
 {
-  double mmm = 2147483647;   /* largest int  - MACHINE DEPENDENT!!!!!!!!   */
-  float x;                   /* individual students may need to change mmm */ 
-  x = rand()/mmm;            /* x should be uniform in [0,1] */
-  return(x);
+    double mmm = RAND_MAX; /* largest int  - MACHINE DEPENDENT!!!!!!!!   */
+    float x;               /* individual students may need to change mmm */
+    x = rand() / mmm;      /* x should be uniform in [0,1] */
+    return (x);
 }  
 
 /********************* EVENT HANDLINE ROUTINES *******/

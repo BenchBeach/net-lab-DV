@@ -1,3 +1,3 @@
-"D:\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\DV.dir/objects.a
-D:\mingw64\bin\ar.exe cr CMakeFiles\DV.dir/objects.a @CMakeFiles\DV.dir\objects1.rsp
-D:\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\DV.dir/objects.a -Wl,--no-whole-archive  -o DV.exe -Wl,--out-implib,libDV.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DV.dir\linklibs.rsp
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\DV.dir/objects.a
+C:\mingw\MinGW\bin\ar.exe cr CMakeFiles\DV.dir/objects.a @CMakeFiles\DV.dir\objects1.rsp
+C:\mingw\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\DV.dir/objects.a -Wl,--no-whole-archive -o DV.exe -Wl,--out-implib,libDV.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DV.dir\linklibs.rsp

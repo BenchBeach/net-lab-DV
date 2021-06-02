@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/C++/DV/main.c" "D:/C++/DV/cmake-build-debug/CMakeFiles/DV.dir/main.c.obj"
-  "D:/C++/DV/node0.c" "D:/C++/DV/cmake-build-debug/CMakeFiles/DV.dir/node0.c.obj"
-  "D:/C++/DV/node1.c" "D:/C++/DV/cmake-build-debug/CMakeFiles/DV.dir/node1.c.obj"
-  "D:/C++/DV/node2.c" "D:/C++/DV/cmake-build-debug/CMakeFiles/DV.dir/node2.c.obj"
-  "D:/C++/DV/node3.c" "D:/C++/DV/cmake-build-debug/CMakeFiles/DV.dir/node3.c.obj"
+  "C:/C/net-lab-DV/main.c" "C:/C/net-lab-DV/cmake-build-debug/CMakeFiles/DV.dir/main.c.obj"
+  "C:/C/net-lab-DV/node0.c" "C:/C/net-lab-DV/cmake-build-debug/CMakeFiles/DV.dir/node0.c.obj"
+  "C:/C/net-lab-DV/node1.c" "C:/C/net-lab-DV/cmake-build-debug/CMakeFiles/DV.dir/node1.c.obj"
+  "C:/C/net-lab-DV/node2.c" "C:/C/net-lab-DV/cmake-build-debug/CMakeFiles/DV.dir/node2.c.obj"
+  "C:/C/net-lab-DV/node3.c" "C:/C/net-lab-DV/cmake-build-debug/CMakeFiles/DV.dir/node3.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
